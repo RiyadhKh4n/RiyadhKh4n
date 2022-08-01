@@ -1,7 +1,7 @@
 Hi 👋 My name is Riyadh
 =======================
 
-Full Stack Developer Student joining JP Morgan Chase as a Technology Degree Apprentice in September
+Full Stack Developer joining JP Morgan Chase as a Technology Degree Apprentice in September
 ---------------------------------------------------------------------------------------------------
 
 Future blockchain developer whose completed the Full Stack Development Diploma by Code Institute on my gap year, where I have learnt technologies like HTML5, CSS3, JavaScript, PostgreSQL, Python, Git/GitHub, Bootstrap and Django allowing me to build responsive and professional websites.
