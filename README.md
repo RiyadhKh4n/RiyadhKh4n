@@ -8,7 +8,7 @@ Future blockchain developer whose completed the Full Stack Development Diploma b
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [riyadh.k@outlook.com](mailto:riyadh.k@outlook.com)
-* 🚀  I'm currently working on [cMarket](http://https://github.com/RiyadhKh4n/cmarket)
+* 🚀  I'm currently working on [cMarket](https://github.com/RiyadhKh4n/cmarket)
 
 ### Skills
 
